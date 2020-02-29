@@ -6,14 +6,10 @@ If you like it, please give me a STAR!
 
 
 
-Lecturer comment/marks：
+### Lecturer comment/marks：
 
-Lab 1: complete wrok, good
-
-Lab 2: complete wrok, good
-
-Lab 3: good work
-
-Lab 4 & Lab 5: not available
-
+Lab 1: complete wrok, good<br>
+Lab 2: complete wrok, good<br>
+Lab 3: good work<br>
+Lab 4 & Lab 5: not available<br>
 Assessment: 20/20 (100%)
