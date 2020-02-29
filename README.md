@@ -1,2 +1,5 @@
 # COMP6245-Foundations-of-Machine-Learning
-Labs reports and assessment report of COMP6245 at University of Southampton
+
+There are labs reports and assessment report of COMP6245 Ffoundations of Machine Learning at University of Southampton.
+
+If you like it, please give me a STAR!
